@@ -146,7 +146,6 @@ header .layer .btn2:hover {
     flex-direction: row-reverse;
     justify-content: space-around;
     align-items: center;
-    /* height: 360px; */
     background-color: #f1f1f1;
 }
 @media  (max-width: 768px){
